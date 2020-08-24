@@ -1,3 +1,10 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+
 .blueblock {
     position: static;
     background-color: blue;
@@ -42,4 +49,9 @@
                          font-size: 50px;  */
             -webkit-text-stroke-width: 1px; 
             -webkit-text-stroke-color: black; 
+}
+
+.objective{
+    padding:35px;
+    font-size: 20px;
 }
