@@ -1,0 +1,361 @@
+.navbar-container {
+    position: absolute;
+    width: 1306px;
+    height: 127px;
+    left: 106px;
+    top: 37px;
+}
+
+.navbar-logo {
+    position: absolute;
+    width: 76px;
+    height: 71px;
+    left: 106px;
+    top: 37px;
+    background: url(WhatsAppImage2020-08-26at9.18.jpg);
+}
+
+.navbar-items-group {
+    position: absolute;
+    width: 606px;
+    height: 29px;
+    left: 806px;
+    top: 58px;
+}
+
+.navbar-about-indicator-line {
+    position: absolute;
+    width: 22px;
+    height: 0px;
+    left: 930px;
+    top: 87px;
+}
+
+.navbar-item-one {
+    position: absolute;
+    height: 21px;
+    left: 53.73%;
+    right: 43.4%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-two {
+    position: absolute;
+    height: 21px;
+    left: 60.53%;
+    right: 35.13%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-three {
+    position: absolute;
+    height: 21px;
+    left: 69%;
+    right: 27.8%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-four {
+    position: absolute;
+    height: 21px;
+    left: 81.4%;
+    right: 13.27%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-five {
+    position: absolute;
+    height: 21px;
+    left: 81.4%;
+    right: 13.27%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-six {
+    position: absolute;
+    height: 21px;
+    left: 90.67%;
+    right: 5.87%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.hero-container {
+    position: absolute;
+    width: 1567px;
+    height: 816.31px;
+    left: -34px;
+    top: 134px;
+}
+
+.hero-display-image {
+    position: absolute;
+    width: 628px;
+    height: 519px;
+    left: 783px;
+    top: 194px;
+    background: url(—Pngtree—artificialintelligencegeometrycircularshape_3962670.png);
+}
+
+.hero-content {
+    position: absolute;
+    height: 178px;
+    left: 12.13%;
+    right: 60.67%;
+    top: calc(50% - 178px/2 - 1713px);
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+
+.hero-background {
+    position: absolute;
+    width: 1567px;
+    height: 816.31px;
+    left: -34px;
+    top: 134px;
+    /*The image for this background is in the images*/
+}
+
+.center-vertical-rectangle-container {
+    position: absolute;
+    left: 49.4%;
+    right: 49.5%;
+    top: 25.23%;
+    bottom: 58.49%;
+}
+
+.center-vertical-rectangle {
+    position: absolute;
+    left: 49.77%;
+    right: 49.87%;
+    top: 25.23%;
+    bottom: 58.49%;
+    background: linear-gradient(178.18deg, #302B63 -13.56%, #281AC8 158.3%, #0F0C29 158.3%);
+    /*Add small rectangles wherever required on this line*/
+}
+
+.history-first-text {
+    position: absolute;
+    left: 18.6%;
+    right: 53.53%;
+    top: 25.6%;
+    bottom: 69.53%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    /* or 125% */
+    text-align: right;
+}
+
+.history-second-text {
+    position: absolute;
+    left: 53.47%;
+    right: 18.67%;
+    top: 30.47%;
+    bottom: 64.66%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    /* or 125% */
+}
+
+.history-third-text {
+    position: absolute;
+    left: 18.6%;
+    right: 53.53%;
+    top: 35.71%;
+    bottom: 59.42%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    /* or 125% */
+    text-align: right;
+}
+
+.to-be-continued {
+    position: absolute;
+    height: 20px;
+    left: 45.33%;
+    right: 45.4%;
+    top: calc(50% - 20px/2 - 328.48px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height, or 167% */
+    text-align: center;
+    letter-spacing: 0.608696px;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.student-leaders-container {
+    position: absolute;
+    width: 1212px;
+    height: 608px;
+    left: 146px;
+    top: 1984px;
+    border-radius: 30px;
+}
+
+.student-leaders-heading {
+    position: absolute;
+    height: 65px;
+    left: 43.47%;
+    right: 40.93%;
+    top: calc(50% - 65px/2 - 128.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 65px;
+    /* identical to box height, or 232% */
+}
+
+.student-leaders-tagline {
+    position: absolute;
+    height: 72px;
+    left: 32.33%;
+    right: 31.53%;
+    top: calc(50% - 72px/2 - 39px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    /* or 250% */
+    text-align: center;
+    color: #333333;
+}
+
+/*To create the effect that you see in the middle square, two rectangles are used with different filters*/
+
+.leaders-middle-rect1 {
+    position: absolute;
+    width: 299px;
+    height: 285px;
+    left: 607px;
+    top: 2224px;
+    background: radial-gradient(44.79% 88.89% at 47.93% 73.15%, #0F0C29 0%, #302B63 70.31%);
+    opacity: 0.4;
+    border-radius: 15px;
+}
+
+.leaders-middle-rect2 {
+    position: absolute;
+    width: 299px;
+    height: 285px;
+    left: 607px;
+    top: 2224px;
+    background: #C4C4C4;
+    border-radius: 15px;
+}
+
+.leaders-left-first-rect {
+    position: absolute;
+    width: 299px;
+    height: 185px;
+    left: 169px;
+    top: 2274px;
+    background: #C4C4C4;
+    border-radius: 15px;
+}
+
+.leaders-left-second-rect {
+    position: absolute;
+    width: 299px;
+    height: 233px;
+    left: 353px;
+    top: 2250px;
+    background: #C4C4C4;
+    border-radius: 15px;
+}
+
+.leaders-left-fourth-rect {
+    position: absolute;
+    width: 299px;
+    height: 233px;
+    left: 861px;
+    top: 2250px;
+    background: #C4C4C4;
+    border-radius: 15px;
+}
+
+.leaders-left-fifth-rect {
+    position: absolute;
+    width: 299px;
+    height: 185px;
+    left: 1034px;
+    top: 2274px;
+    background: #C4C4C4;
+    border-radius: 15px;
+}
+
+.footer-container {
+    position: absolute;
+    width: 1502.16px;
+    height: 351px;
+    left: -2px;
+    top: 2728px;
+}
+
+.footer-properties {
+    position: absolute;
+    left: -0.13%;
+    right: -0.01%;
+    top: 62.97%;
+    bottom: 28.92%;
+    background: #151515;
+}
