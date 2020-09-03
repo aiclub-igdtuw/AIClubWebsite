@@ -308,3 +308,754 @@
     text-align: center;
     color: #FFFFFF;
 }
+
+.activities-container {
+    position: absolute;
+    width: 1663.62px;
+    height: 1128.41px;
+    left: -82px;
+    top: 1122px;
+}
+
+.activities-content-container {
+    position: absolute;
+    width: 1158px;
+    height: 367px;
+    left: 171px;
+    top: 1585px;
+}
+
+.workshop-icon {
+    position: absolute;
+    width: 100px;
+    height: 112.79px;
+    left: 315px;
+    top: 1701px;
+    background: url(workshop.png);
+}
+
+.meetups-icon {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 700px;
+    top: 1714px;
+    background: url(gathering.png);
+}
+
+.hackathons-icon {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1051px;
+    top: 1693px;
+    background: url(noun_Hackathon_6324.png);
+}
+
+.hackathon-button-container {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 1057px;
+    top: 1847px;
+}
+
+.hackathon-button-text {
+    position: absolute;
+    height: 20px;
+    left: 72.67%;
+    right: 21.27%;
+    top: calc(50% - 20px/2 - 1604px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.hackathon-button {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 1057px;
+    top: 1847px;
+    background: radial-gradient(44.79% 88.89% at 47.93% 73.15%, #0F0C29 0%, #302B63 100%);
+    border-radius: 100px;
+}
+
+.workshops-button-container {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 287px;
+    top: 1847px;
+}
+
+.workshops-button-text {
+    position: absolute;
+    height: 20px;
+    left: 21.33%;
+    right: 72.6%;
+    top: calc(50% - 20px/2 - 1604px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.workshops-button {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 287px;
+    top: 1847px;
+    background: radial-gradient(44.79% 88.89% at 47.93% 73.15%, #0F0C29 0%, #302B63 100%);
+    border-radius: 100px;
+}
+
+.activities-heading {
+    position: absolute;
+    height: 40px;
+    left: 45.13%;
+    right: 45.13%;
+    top: calc(50% - 40px/2 - 1850px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 65px;
+    /* or 361% */
+    text-align: center;
+}
+
+.activities-partition-line {
+    position: absolute;
+    width: 1158px;
+    height: 0px;
+    left: 171px;
+    top: 1656px;
+    border: 1px solid #BBBBBB;
+}
+
+.objectives-container {
+    position: absolute;
+    width: 1111px;
+    height: 448px;
+    left: 218px;
+    top: 2205px;
+}
+
+.objectives-image {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 890px;
+    top: 2205px;
+    background: url(Artificial_Intelligence_12);
+}
+
+.objectives-heading {
+    position: absolute;
+    height: 84px;
+    left: 14.53%;
+    right: 58.8%;
+    top: calc(50% - 84px/2 - 1182px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.objectives-content {
+    position: absolute;
+    height: 153px;
+    left: 14.53%;
+    right: 49.33%;
+    top: calc(50% - 153px/2 - 995.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    /* or 250% */
+    color: #333333;
+}
+
+.objectives-indicator {
+    position: absolute;
+    width: 50px;
+    height: 0px;
+    left: 222px;
+    top: 2356px;
+}
+
+.objectives-button-container {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 218px;
+    top: 2588px;
+}
+
+.objectives-button-text {
+    position: absolute;
+    height: 20px;
+    left: 16.73%;
+    right: 77.2%;
+    top: calc(50% - 20px/2 - 863px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.objectives-button {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 218px;
+    top: 2588px;
+    background: linear-gradient(178.18deg, #0F0C29 -13.56%, #302B63 158.3%);
+    border-radius: 100px;
+}
+
+.events-outer-container {
+    position: absolute;
+    width: 1663.62px;
+    height: 625px;
+    left: -82px;
+    top: 2733px;
+}
+
+.events-hackathon-image {
+    position: absolute;
+    width: 209px;
+    height: 109px;
+    left: 646px;
+    top: 3063px;
+    background: url(6673.jpg);
+}
+
+.events-inner-container {
+    position: absolute;
+    width: 980px;
+    height: 504px;
+    left: 260px;
+    top: 2854px;
+    background: #FFFFFF;
+    box-shadow: 0px 50px 100px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.events-indicator {
+    position: absolute;
+    width: 50px;
+    height: 0px;
+    left: 725px;
+    top: 2987px;
+}
+
+.events-heading {
+    position: absolute;
+    height: 42px;
+    left: 39.4%;
+    right: 39.4%;
+    top: calc(50% - 42px/2 - 529px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    /* identical to box height */
+    text-align: center;
+}
+
+.hackathon-container {
+    position: absolute;
+    width: 262px;
+    height: 226px;
+    left: 619px;
+    top: 3045px;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+.hackathon-content {
+    position: absolute;
+    width: 292.07px;
+    height: 51px;
+    left: 604px;
+    top: 3197px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;
+}
+
+.team-container {
+    position: absolute;
+    width: 1087px;
+    height: 543px;
+    left: 207px;
+    top: 3500px;
+}
+
+.team-blocks-outer-container {
+    position: absolute;
+    width: 1087px;
+    height: 358px;
+    left: 207px;
+    top: 3685px;
+}
+
+.team-indicator {
+    position: absolute;
+    width: 50px;
+    height: 0px;
+    left: 725px;
+    top: 3559px;
+}
+
+.team-heading {
+    position: absolute;
+    height: 42px;
+    left: 39.4%;
+    right: 39.4%;
+    top: calc(50% - 42px/2 + 43px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    /* identical to box height */
+    text-align: center;
+}
+
+.team-tagline {
+    position: absolute;
+    height: 26px;
+    left: 31.93%;
+    right: 31.93%;
+    top: calc(50% - 26px/2 + 144px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    /* or 250% */
+    text-align: center;
+    color: #333333;
+}
+
+.team-left-card-container {
+    position: absolute;
+    width: 370px;
+    height: 286px;
+    left: 207px;
+    top: 3721px;
+    background: #FFFFFF;
+    border: 1px solid #888888;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.team-middle-card-container {
+    position: absolute;
+    width: 465px;
+    height: 358px;
+    left: 518px;
+    top: 3685px;
+    background: #FFFFFF;
+    box-shadow: 0px 50px 100px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+
+.team-right-card-container {
+    position: absolute;
+    width: 370px;
+    height: 286px;
+    left: 924px;
+    top: 3721px;
+    background: #FFFFFF;
+    border: 1px solid #888888;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.team-left-card-content {
+    position: absolute;
+    left: 17.47%;
+    right: 58.93%;
+    top: 55.71%;
+    bottom: 43.21%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 18px;
+    /* or 185% */
+    color: #888888;
+    border-radius: 5px;
+}
+
+.team-left-card-heading {
+    position: absolute;
+    height: 60px;
+    left: 17.47%;
+    right: 76.2%;
+    top: calc(50% - 60px/2 + 355px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    color: #888888;
+    border-radius: 5px;
+}
+
+.team-left-card-topic {
+    position: absolute;
+    width: 97px;
+    height: 20px;
+    left: 262px;
+    top: 3768px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 17px;
+    /* identical to box height, or 170% */
+    color: #888888;
+    border-radius: 5px;
+}
+
+.team-left-card-button-container {
+    position: absolute;
+    width: 105px;
+    height: 36.11px;
+    left: 262px;
+    top: 3943px;
+}
+
+.team-left-card-button-text {
+    position: absolute;
+    height: 13.38px;
+    left: 18.94%;
+    right: 77%;
+    top: calc(50% - 13.38px/2 + 483.06px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 9px;
+    line-height: 13px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.team-left-card-button {
+    position: absolute;
+    width: 105px;
+    height: 36.11px;
+    left: 262px;
+    top: 3943px;
+    background: #888888;
+    border-radius: 100px;
+}
+
+.team-center-card-button-container {
+    position: absolute;
+    width: 127px;
+    height: 43.68px;
+    left: 577px;
+    top: 3959px;
+}
+
+.team-center-card-button-text {
+    position: absolute;
+    height: 16.18px;
+    left: 40.25%;
+    right: 54.85%;
+    top: calc(50% - 16.18px/2 + 502.84px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 16px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.team-center-card-button {
+    position: absolute;
+    width: 127px;
+    height: 43.68px;
+    left: 577px;
+    top: 3959px;
+    background: linear-gradient(178.18deg, #0F0C29 -13.56%, #302B63 158.3%);
+    border-radius: 100px;
+}
+
+.team-center-card-topic {
+    position: absolute;
+    width: 98px;
+    height: 20px;
+    left: 577px;
+    top: 3725px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 17px;
+    /* identical to box height, or 170% */
+    color: #888888;
+    border-radius: 5px;
+}
+
+.team-center-card-heading {
+    position: absolute;
+    height: 78px;
+    left: 38.47%;
+    right: 53.73%;
+    top: calc(50% - 78px/2 + 329px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 39px;
+    /* or 162% */
+    border-radius: 5px;
+}
+
+.team-center-card-content {
+    position: absolute;
+    left: 38.47%;
+    right: 37.93%;
+    top: 55.51%;
+    bottom: 43.42%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 28px;
+    /* or 233% */
+    color: #333333;
+    border-radius: 5px;
+}
+
+.team-right-card-topic {
+    position: absolute;
+    width: 97px;
+    height: 20px;
+    left: 988px;
+    top: 3762px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 17px;
+    /* identical to box height, or 170% */
+    color: #888888;
+    border-radius: 5px;
+}
+
+.team-right-card-heading {
+    position: absolute;
+    height: 60px;
+    left: 64.4%;
+    right: 29.13%;
+    top: calc(50% - 60px/2 + 349px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    color: #888888;
+    border-radius: 5px;
+}
+
+.team-right-card-content {
+    position: absolute;
+    left: 64.4%;
+    right: 17.67%;
+    top: 55.62%;
+    bottom: 43.3%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 18px;
+    /* or 185% */
+    color: #888888;
+    border-radius: 5px;
+}
+
+.team-right-card-button-container {
+    position: absolute;
+    width: 105px;
+    height: 36.11px;
+    left: 966px;
+    top: 3937px;
+}
+
+.team-right-button-text {
+    position: absolute;
+    height: 13.38px;
+    left: 65.87%;
+    right: 30.07%;
+    top: calc(50% - 13.38px/2 + 477.06px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 9px;
+    line-height: 13px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.team-right-button {
+    position: absolute;
+    width: 105px;
+    height: 36.11px;
+    left: 966px;
+    top: 3937px;
+    background: #888888;
+    border-radius: 100px;
+}
+
+.newsletter-container {
+    position: absolute;
+    width: 554px;
+    height: 272px;
+    left: 471px;
+    top: 4231px;
+}
+
+.newsletter-content {
+    position: absolute;
+    left: 37.67%;
+    right: 37.11%;
+    top: 62.33%;
+    bottom: 36.04%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    /* or 250% */
+    text-align: center;
+    color: #333333;
+}
+
+.newsletter-heading {
+    position: absolute;
+    height: 65px;
+    left: 37.13%;
+    right: 36.6%;
+    top: calc(50% - 65px/2 + 785.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 65px;
+    /* identical to box height, or 232% */
+    text-align: center;
+}
+
+.newsletter-indicator {
+    position: absolute;
+    width: 43px;
+    height: 0px;
+    left: 726.5px;
+    top: 4286.22px;
+}
+
+.newsletter-form-container {
+    position: absolute;
+    width: 388px;
+    height: 54px;
+    left: 471px;
+    top: 4449px;
+}
+
+.newsletter-form-placeholder {
+    position: absolute;
+    height: 20px;
+    left: 31.4%;
+    right: 62.53%;
+    top: calc(50% - 20px/2 + 998px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #333333;
+}
+
+.newsletter-form {
+    position: absolute;
+    width: 388px;
+    height: 54px;
+    left: 471px;
+    top: 4449px;
+    border-radius: 100px;
+}
+
+.subscribe-button-container {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 868px;
+    top: 4449px;
+}
+
+.subscribe-button-text {
+    position: absolute;
+    height: 20px;
+    left: 60.07%;
+    right: 33.87%;
+    top: calc(50% - 20px/2 + 998px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.subscribe-button {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 868px;
+    top: 4449px;
+    background: linear-gradient(178.18deg, #0F0C29 -13.56%, #302B63 158.3%);
+    border-radius: 100px;
+}
+
+.footer-container {
+    position: absolute;
+    width: 1502.16px;
+    height: 351px;
+    left: -3px;
+    top: 4639px;
+}
