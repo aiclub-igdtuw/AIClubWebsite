@@ -1,0 +1,310 @@
+.navbar-container {
+    position: absolute;
+    width: 1306px;
+    height: 127px;
+    left: 106px;
+    top: 37px;
+}
+
+.navbar-logo {
+    position: absolute;
+    width: 76px;
+    height: 71px;
+    left: 106px;
+    top: 37px;
+    background: url(WhatsAppImage2020-08-26at9.18.jpg);
+}
+
+.navbar-items-group {
+    position: absolute;
+    width: 606px;
+    height: 29px;
+    left: 806px;
+    top: 58px;
+}
+
+.navbar-about-indicator-line {
+    position: absolute;
+    width: 22px;
+    height: 0px;
+    left: 930px;
+    top: 87px;
+}
+
+.navbar-item-one {
+    position: absolute;
+    height: 21px;
+    left: 53.73%;
+    right: 43.4%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-two {
+    position: absolute;
+    height: 21px;
+    left: 60.53%;
+    right: 35.13%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-three {
+    position: absolute;
+    height: 21px;
+    left: 69%;
+    right: 27.8%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-four {
+    position: absolute;
+    height: 21px;
+    left: 81.4%;
+    right: 13.27%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-five {
+    position: absolute;
+    height: 21px;
+    left: 81.4%;
+    right: 13.27%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.navbar-item-six {
+    position: absolute;
+    height: 21px;
+    left: 90.67%;
+    right: 5.87%;
+    top: calc(50% - 21px/2 - 2097.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.hero-container {
+    position: absolute;
+    width: 1567px;
+    height: 816.31px;
+    left: -34px;
+    top: 134px;
+}
+
+.hero-display-image {
+    position: absolute;
+    width: 628px;
+    height: 519px;
+    left: 783px;
+    top: 194px;
+    background: url(—Pngtree—artificialintelligencegeometrycircularshape_3962670.png);
+}
+
+.hero-content {
+    position: absolute;
+    height: 178px;
+    left: 12.13%;
+    right: 60.67%;
+    top: calc(50% - 178px/2 - 1713px);
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+
+.hero-tagline {
+    position: absolute;
+    width: 301px;
+    height: 54px;
+    left: 182px;
+    top: 477px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.hero-main-content {
+    position: absolute;
+    height: 180px;
+    left: 12.13%;
+    right: 46.27%;
+    top: calc(50% - 180px/2 - 3112px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.hero-button-container {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 182px;
+    top: 561px;
+}
+
+.hero-button {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 182px;
+    top: 561px;
+    background: #FFFFFF;
+    border-radius: 100px;
+}
+
+.hero-button-text {
+    position: absolute;
+    height: 20px;
+    left: 14.27%;
+    right: 79.53%;
+    top: calc(50% - 20px/2 - 2890px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.hero-background {
+    position: absolute;
+    width: 1567px;
+    height: 816.31px;
+    left: -34px;
+    top: 134px;
+    /*The image for this background is in the images*/
+}
+
+.welcome-container {
+    position: absolute;
+    width: 1207px;
+    height: 413px;
+    left: 136px;
+    top: 921px;
+}
+
+.welcome-image {
+    position: absolute;
+    width: 629px;
+    height: 393px;
+    left: 136px;
+    top: 935px;
+    background: url(2833678.jpg);
+}
+
+.welcome-heading {
+    position: absolute;
+    height: 65px;
+    left: 53.4%;
+    right: 19.27%;
+    top: calc(50% - 65px/2 - 2524.5px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 65px;
+    /* identical to box height, or 232% */
+    color: #302B63;
+}
+
+.welcome-heading-indicator {
+    position: absolute;
+    width: 50px;
+    height: 0px;
+    left: 805px;
+    top: 977.92px;
+}
+
+.welcome-content {
+    position: absolute;
+    height: 268px;
+    left: 53.4%;
+    right: 10.47%;
+    top: calc(50% - 268px/2 - 2350px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    /* or 250% */
+    color: #333333;
+}
+
+.welcome-button-container {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 801px;
+    top: 1280px;
+}
+
+.welcome-button {
+    position: absolute;
+    width: 157px;
+    height: 54px;
+    left: 801px;
+    top: 1280px;
+    background: linear-gradient(178.18deg, #0F0C29 -13.56%, #302B63 158.3%);
+    border-radius: 100px;
+}
+
+.welcome-button-text {
+    position: absolute;
+    height: 20px;
+    left: 55.6%;
+    right: 38.33%;
+    top: calc(50% - 20px/2 - 2171px);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
