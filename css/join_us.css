@@ -1,0 +1,144 @@
+body{
+    background:url(/AIClubWebsite/img/hero_background.png);
+    background-size: 1263px 628px;
+    background-position: top center;
+    /* background-attachment: fixed; */
+    height: 1500px;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+/* nav{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px 0 100px;
+    flex-wrap: wrap;
+} */
+
+nav ul{
+    display: flex;
+    flex-wrap: wrap; 
+    list-style: none;
+}
+nav ul li{
+    margin: 0 5px;
+}
+
+nav ul li a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 15px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li a.active,
+nav ul li a:hover{
+    color: rgb(179, 172, 172);
+    /* background: #fff; */
+}
+
+/* main.css ki copy */
+/* line 3, D:/Development/WebDevelopment/AIClub/scss/main2.scss */
+html, body {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  /* line 7, D:/Development/WebDevelopment/AIClub/scss/main2.scss */
+  *, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  /* line 13, D:/Development/WebDevelopment/AIClub/scss/main2.scss */
+  header {
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    background: rgba(255, 255, 255);
+  }
+  
+  /* line 21, D:/Development/WebDevelopment/AIClub/scss/main2.scss */
+  header a {
+    color: white;
+    /* background: rgba(255, 255, 255); */
+    display: inline-block;
+    padding: 0px 30px;
+    height: 60px;
+    line-height: 0px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+  }
+    
+  /* line 35, D:/Development/WebDevelopment/AIClub/scss/main2.scss */
+  
+  .hero-display-image, #join1 {
+    position: absolute;
+    width: 498px;
+    height: 393px;
+    left: 769px;
+    top: 92px;
+  }
+
+  .hero-display-image, #joinDiscord {
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 530px;
+    top: 805px;
+  }
+  
+  .discord {
+    position: absolute;
+    text-align: center;
+    width: 620px;
+    height: 69px;
+    left: 330px;
+    top: 610px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: normal;
+    font-weight: lighter;
+    font-size: 41px;
+    line-height: 46px;
+    letter-spacing: 1.2px;
+    color: #000000;
+}
+
+.lineDiscord {
+    position: absolute;
+    width: 430px;
+    height: 69px;
+    left: 520px;
+    top: 1080px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 1.2px;
+    color: #000000;
+}
+
+.footer {
+    position: absolute;
+    width: 1502.16px;
+    height: 260px;
+    left: -2px;
+    top: 1239px;
+    background: #151515;
+}
+  

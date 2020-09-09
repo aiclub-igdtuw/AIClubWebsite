@@ -10,7 +10,6 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
 /* line 13, D:/Development/WebDevelopment/AIClub/scss/main2.scss */
 header {
   z-index: 1;
@@ -112,3 +111,4 @@ p {
   padding:35px;
   font-size: 20px;
 }
+

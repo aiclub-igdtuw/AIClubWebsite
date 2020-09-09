@@ -12,7 +12,7 @@
     height: 71px;
     left: 106px;
     top: 37px;
-    background: url(WhatsAppImage2020-08-26at9.18.jpg);
+    /* background: url(WhatsAppImage2020-08-26at9.18.jpg); */
 }
 
 .navbar-items-group {
@@ -135,7 +135,7 @@
     height: 519px;
     left: 783px;
     top: 194px;
-    background: url(—Pngtree—artificialintelligencegeometrycircularshape_3962670.png);
+    /* background: url(—Pngtree—artificialintelligencegeometrycircularshape_3962670.png); */
 }
 
 .hero-content {
@@ -349,6 +349,7 @@
     height: 351px;
     left: -2px;
     top: 2728px;
+    background: #151515;
 }
 
 .footer-properties {
