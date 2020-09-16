@@ -1,0 +1,71 @@
+.mynav{
+    padding:20px !important;
+    height: 10vh;
+}
+
+.navbar-nav{
+    margin-right: 20px;
+}
+
+.hero{
+    background-image: url(./BG.png);
+    min-height: 90vh;
+    display: flex;
+    min-width: 100vw;
+    background-size:contain;
+    background-repeat: no-repeat;
+    /* background-clip: content-box; */
+    background-position: center;
+    background-size: contain;
+    /* background: url(./BG.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+    /* background-origin: content-box; */
+} 
+
+.herotext{
+    display: inline-block;
+    margin-top: 2vh;
+    
+}
+.mysubtext{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: #FFFFFF;
+}
+.mytext{
+    
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 60px;
+
+color: #FFFFFF;
+}
+.heroimage{
+    display: inline-block;
+
+}
+
+.getstarted{
+    background: #FFFFFF;
+border-radius: 100px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+color: black;
+}
+
+.getstartedText{
+   
+}
